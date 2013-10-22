@@ -1,10 +1,12 @@
 #include <iostream>
 
 void api_function_system ();
+void api_function_gui ();
 
 int main () {
 
 
 	api_function_system ();
+	api_function_gui ();
 
 }
