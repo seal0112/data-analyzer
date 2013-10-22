@@ -1,0 +1,10 @@
+#include <iostream>
+
+void api_function_system ();
+
+int main () {
+
+
+	api_function_system ();
+
+}
